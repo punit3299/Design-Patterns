@@ -1,0 +1,12 @@
+package com.main;
+
+import com.phone.OS;
+import com.phone.Windows;
+
+public class FactoryMain {
+	public static void main(String[] args) {
+
+		OS os = new Windows();
+		os.specs();
+	}
+}

@@ -1,0 +1,12 @@
+package com.phone;
+
+public class OSFactory {
+	
+	public OS getInstance(String s) {
+		if(s.equals("A")) {
+			return new Android();
+		}else if(s.equals("W")) {
+			return new Windows();
+		}
+	}
+}

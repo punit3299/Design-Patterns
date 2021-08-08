@@ -1,0 +1,11 @@
+package com.notification;
+
+public class SmsNotication implements Notification {
+
+	@Override
+	public void notifyUser() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

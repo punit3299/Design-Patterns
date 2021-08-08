@@ -1,0 +1,10 @@
+package com.notification;
+
+public class NotificationFactory {
+
+	public Notification createNotification(String s) {
+		if(s.equals("SMS")) {
+			return new SMSNotication();
+		}
+	}
+}
