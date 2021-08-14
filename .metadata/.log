@@ -266,3 +266,21 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-08 23:49:18.116
 !MESSAGE executing callback sts4.classpath.uwxoQnWz SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-14 13:44:32.197
+!MESSAGE Preparing classpath changed notification Builder-Pattern
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-14 13:44:32.198
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-14 13:44:32.200
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-14 13:44:32.202
+!MESSAGE buffering callback sts4.classpath.uwxoQnWz Builder-Pattern false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-14 13:44:32.202
+!MESSAGE executing callback sts4.classpath.uwxoQnWz 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-14 13:44:32.207
+!MESSAGE executing callback sts4.classpath.uwxoQnWz SUCCESS [done]
