@@ -1,9 +1,0 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.phone.OS"><rhs name\="com.phone.Android"/><rhs name\="com.phone.Windows"/><rhs name\="com.phone.iOS"/></lhs><lhs name\="com.phone.OSFactory"><rhs name\="com.phone.OSFactory"/></lhs><lhs name\="com.notification.Notification"><rhs name\="com.notification.SMSNotication"/><rhs name\="com.notification.EmailNotification"/><rhs name\="com.notification.PushNotification"/></lhs><lhs name\="com.notification.NotificationFactory"><rhs name\="com.notification.NotificationFactory"/></lhs><lhs name\="com.builder.Phone"><rhs name\="com.builder.Phone"/></lhs><lhs name\="com.builder.PhoneBuilder"><rhs name\="com.builder.PhoneBuilder"/></lhs></history>
-content_assist_number_of_computers=17
-content_assist_proposals_background=255,255,255
-content_assist_proposals_foreground=0,0,0
-eclipse.preferences.version=1
-org.eclipse.jdt.ui.formatterprofiles.version=18
-spelling_locale_initialized=true
-useAnnotationsPrefPage=true
-useQuickDiffPrefPage=true
