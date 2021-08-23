@@ -5,6 +5,6 @@
 
 ## Types of Design Patterns
 
-1. Creational design patterns - These patterns are all about Class instantiation. 
-2. Structural design patterns - These patterns are all about Class and Object composition.
-3. Behavioural design patterns - These design patterns are all about Class's objects communication.
+1. Creational design patterns - These patterns are all about Class instantiation. eg: Factory, Build, Singleton, Protoype, etc.
+2. Structural design patterns - These patterns are all about Class and Object composition. eg: Adapter, Bridge, Composite, Facade, Proxy, etc.
+3. Behavioural design patterns - These design patterns are all about Class's objects communication. eg: Strategy, Observer Patterns, etc.
